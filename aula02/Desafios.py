@@ -13,4 +13,10 @@ ano_nascimento = input ("Agora, digite o ano do seu nascimento:")
 print(f"Sua data de nascimento é {dia_nascimento}/{mes_nascimento}/{ano_nascimento}")
 
 #DESAFIO 3
+num_um = int (input("Digite um número:"))
 
+num_dois = int (input("Digite outro número:"))
+
+soma = num_um + num_dois
+
+print(f"A soma dos números é: {soma}")
